@@ -1,0 +1,32 @@
+12-06-2022 15:18:57 ERROR Class: RunnerForTxtReader: Line: 18 Thread: [main] - Input mismatch exception
+java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Scanner.java:864)
+	at java.util.Scanner.next(Scanner.java:1485)
+	at java.util.Scanner.nextInt(Scanner.java:2117)
+	at java.util.Scanner.nextInt(Scanner.java:2076)
+	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.runnerForTxtReader(RunnerForTxtReader.java:27)
+	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.run(RunnerForTxtReader.java:16)
+	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.main(RunnerForTxtReader.java:42)
+12-06-2022 15:19:05 INFO  Class: ReaderForTxtUtil: Line: 44 Thread: [main] - Reading file sad from sakmd
+12-06-2022 15:19:05 ERROR Class: ReaderForTxtUtil: Line: 60 Thread: [main] - File not found
+java.io.FileNotFoundException: /Users/pro/Desktop/pre_prod_java_winter_2022/sakmdsad (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at com.epam.radziievskyi.filereader.readlinebyline.util.ReaderForTxtUtil$ReaderForTxtIterator.<init>(ReaderForTxtUtil.java:58)
+	at com.epam.radziievskyi.filereader.readlinebyline.util.ReaderForTxtUtil.iterator(ReaderForTxtUtil.java:33)
+	at com.epam.radziievskyi.filereader.readlinebyline.util.ReaderForTxtUtil.run(ReaderForTxtUtil.java:46)
+	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.runnerForTxtReader(RunnerForTxtReader.java:31)
+	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.run(RunnerForTxtReader.java:16)
+	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.main(RunnerForTxtReader.java:42)
+12-06-2022 15:19:05 ERROR Class: ReaderForTxtUtil: Line: 70 Thread: [main] - Error while reading file
+java.lang.NullPointerException
+	at com.epam.radziievskyi.filereader.readlinebyline.util.ReaderForTxtUtil$ReaderForTxtIterator.hasNext(ReaderForTxtUtil.java:68)
+	at com.epam.radziievskyi.filereader.readlinebyline.util.ReaderForTxtUtil.run(ReaderForTxtUtil.java:46)
+	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.runnerForTxtReader(RunnerForTxtReader.java:31)
+	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.run(RunnerForTxtReader.java:16)
+	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.main(RunnerForTxtReader.java:42)
+12-06-2022 15:19:05 INFO  Class: ReaderForTxtUtil: Line: 49 Thread: [main] - File read
+12-06-2022 15:19:05 INFO  Class: RunnerForTxtReader: Line: 32 Thread: [main] - File read

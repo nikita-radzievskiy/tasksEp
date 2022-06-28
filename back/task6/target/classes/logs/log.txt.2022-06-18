@@ -1,0 +1,5 @@
+18-06-2022 02:27:58 INFO  Class: Runner: Line: 11 Thread: [main] - Application was started
+18-06-2022 02:27:58 ERROR Class: SerializerImpl: Line: 72 Thread: [main] - File not found
+18-06-2022 02:29:31 INFO  Class: Runner: Line: 11 Thread: [main] - Application was started
+18-06-2022 02:29:31 ERROR Class: SerializerImpl: Line: 72 Thread: [main] - File not found
+18-06-2022 02:29:49 INFO  Class: Runner: Line: 11 Thread: [main] - Application was started
