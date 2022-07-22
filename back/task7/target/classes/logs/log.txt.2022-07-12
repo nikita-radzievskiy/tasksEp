@@ -1,0 +1,123 @@
+12-07-2022 16:25:14 INFO  Class: Runner: Line: 14 Thread: [main] - Application started
+12-07-2022 16:25:14 INFO  Class: ApplicationManager: Line: 28 Thread: [main] - Application started
+12-07-2022 16:25:16 INFO  Class: ApplicationManager: Line: 77 Thread: [main] - Input is by numbers
+12-07-2022 16:25:16 INFO  Class: ApplicationManager: Line: 96 Thread: [main] - Custom strategy was chosen
+12-07-2022 16:25:16 INFO  Class: ApplicationContext: Line: 48 Thread: [main] - ApplicationContext created
+12-07-2022 16:25:16 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:25:16 INFO  Class: ProductDAOImpl: Line: 82 Thread: [main] - List of products was created
+12-07-2022 16:25:18 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:25:18 INFO  Class: ShowAllProductsCommandImpl: Line: 20 Thread: [main] - Method execute() in class ShowAllProductsCommandImpl was called
+12-07-2022 16:25:26 INFO  Class: Runner: Line: 14 Thread: [main] - Application started
+12-07-2022 16:25:26 INFO  Class: ApplicationManager: Line: 28 Thread: [main] - Application started
+12-07-2022 16:25:27 INFO  Class: ApplicationManager: Line: 77 Thread: [main] - Input is by numbers
+12-07-2022 16:25:27 INFO  Class: ApplicationManager: Line: 93 Thread: [main] - Default strategy was chosen
+12-07-2022 16:25:27 INFO  Class: ApplicationContext: Line: 48 Thread: [main] - ApplicationContext created
+12-07-2022 16:25:27 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:25:27 INFO  Class: ProductDAOImpl: Line: 82 Thread: [main] - List of products was created
+12-07-2022 16:25:29 INFO  Class: AddProductCommandImpl: Line: 45 Thread: [main] - Created map of vehicles
+12-07-2022 16:25:32 INFO  Class: AbstractMethodTemplate: Line: 41 Thread: [main] - Vehicle was created by customer
+12-07-2022 16:25:32 INFO  Class: ElectroCarTemplate: Line: 29 Thread: [main] - ElectroCar was created by customer
+12-07-2022 16:25:32 INFO  Class: ProductServiceImpl: Line: 51 Thread: [main] - Product was added
+12-07-2022 16:25:32 INFO  Class: AddProductCommandImpl: Line: 69 Thread: [main] - Product added by strategy
+12-07-2022 16:25:33 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:25:33 INFO  Class: ShowAllProductsCommandImpl: Line: 20 Thread: [main] - Method execute() in class ShowAllProductsCommandImpl was called
+12-07-2022 16:25:58 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:26:00 INFO  Class: ProductServiceImpl: Line: 34 Thread: [main] - Product ElectroCar{ model '1', brand '1', name of product '1', price '1.0', country '1', year '1', maxSpeed '1', horse power '1', passengers '1', battery capacity '1', wheels '1'} was found
+12-07-2022 16:26:00 INFO  Class: ProductDAOImpl: Line: 48 Thread: [main] - Found product by name
+12-07-2022 16:37:32 INFO  Class: Runner: Line: 14 Thread: [main] - Application started
+12-07-2022 16:37:32 INFO  Class: ApplicationManager: Line: 28 Thread: [main] - Application started
+12-07-2022 16:37:35 INFO  Class: ApplicationManager: Line: 77 Thread: [main] - Input is by numbers
+12-07-2022 16:37:35 INFO  Class: ApplicationManager: Line: 96 Thread: [main] - Custom strategy was chosen
+12-07-2022 16:37:35 INFO  Class: ApplicationContext: Line: 49 Thread: [main] - ApplicationContext created
+12-07-2022 16:37:35 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:37:35 INFO  Class: ProductDAOImpl: Line: 82 Thread: [main] - List of products was created
+12-07-2022 16:37:36 INFO  Class: AddProductCommandImpl: Line: 45 Thread: [main] - Created map of vehicles
+12-07-2022 16:37:36 INFO  Class: AbstractMethodTemplate: Line: 41 Thread: [main] - Vehicle was created by customer
+12-07-2022 16:37:36 INFO  Class: ElectroCarTemplate: Line: 29 Thread: [main] - ElectroCar was created by customer
+12-07-2022 16:37:36 INFO  Class: ProductServiceImpl: Line: 51 Thread: [main] - Product was added
+12-07-2022 16:37:36 INFO  Class: AddProductCommandImpl: Line: 69 Thread: [main] - Product added by strategy
+12-07-2022 16:37:37 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:37:37 INFO  Class: ShowAllProductsCommandImpl: Line: 20 Thread: [main] - Method execute() in class ShowAllProductsCommandImpl was called
+12-07-2022 16:37:44 INFO  Class: AddProductCommandImpl: Line: 45 Thread: [main] - Created map of vehicles
+12-07-2022 16:37:45 INFO  Class: AbstractMethodTemplate: Line: 41 Thread: [main] - Vehicle was created by customer
+12-07-2022 16:37:45 INFO  Class: ElectroCarTemplate: Line: 29 Thread: [main] - ElectroCar was created by customer
+12-07-2022 16:37:45 INFO  Class: ProductServiceImpl: Line: 51 Thread: [main] - Product was added
+12-07-2022 16:37:45 INFO  Class: AddProductCommandImpl: Line: 69 Thread: [main] - Product added by strategy
+12-07-2022 16:37:46 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:37:46 INFO  Class: ShowAllProductsCommandImpl: Line: 20 Thread: [main] - Method execute() in class ShowAllProductsCommandImpl was called
+12-07-2022 16:37:52 INFO  Class: Runner: Line: 14 Thread: [main] - Application started
+12-07-2022 16:37:52 INFO  Class: ApplicationManager: Line: 28 Thread: [main] - Application started
+12-07-2022 16:37:53 INFO  Class: ApplicationManager: Line: 77 Thread: [main] - Input is by numbers
+12-07-2022 16:37:53 INFO  Class: ApplicationManager: Line: 93 Thread: [main] - Default strategy was chosen
+12-07-2022 16:37:53 INFO  Class: ApplicationContext: Line: 49 Thread: [main] - ApplicationContext created
+12-07-2022 16:37:53 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:37:53 INFO  Class: ProductDAOImpl: Line: 82 Thread: [main] - List of products was created
+12-07-2022 16:37:54 INFO  Class: AddProductCommandImpl: Line: 45 Thread: [main] - Created map of vehicles
+12-07-2022 16:37:57 INFO  Class: AbstractMethodTemplate: Line: 41 Thread: [main] - Vehicle was created by customer
+12-07-2022 16:37:58 INFO  Class: ElectroCarTemplate: Line: 29 Thread: [main] - ElectroCar was created by customer
+12-07-2022 16:37:58 INFO  Class: ProductServiceImpl: Line: 51 Thread: [main] - Product was added
+12-07-2022 16:37:58 INFO  Class: AddProductCommandImpl: Line: 69 Thread: [main] - Product added by strategy
+12-07-2022 16:37:59 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:37:59 INFO  Class: ShowAllProductsCommandImpl: Line: 20 Thread: [main] - Method execute() in class ShowAllProductsCommandImpl was called
+12-07-2022 16:38:58 INFO  Class: ProductDAOImpl: Line: 48 Thread: [main] - Found product by name
+12-07-2022 16:38:58 INFO  Class: ProductDAOImpl: Line: 48 Thread: [main] - Found product by name
+12-07-2022 16:38:59 INFO  Class: OrderDAOImpl: Line: 124 Thread: [main] - Order is empty
+12-07-2022 16:38:59 INFO  Class: ProductServiceImpl: Line: 44 Thread: [main] - All products were returned
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:39:15 INFO  Class: ProductDAOImpl: Line: 62 Thread: [main] - List of products was created
+12-07-2022 16:40:43 INFO  Class: Runner: Line: 14 Thread: [main] - Application started
+12-07-2022 16:40:43 INFO  Class: ApplicationManager: Line: 28 Thread: [main] - Application started
+12-07-2022 16:40:43 ERROR Class: SerializerImpl: Line: 70 Thread: [main] - File not found
+12-07-2022 16:40:47 INFO  Class: ApplicationManager: Line: 77 Thread: [main] - Input is by numbers
+12-07-2022 16:40:47 INFO  Class: ApplicationManager: Line: 96 Thread: [main] - Custom strategy was chosen
+12-07-2022 16:40:47 INFO  Class: ApplicationContext: Line: 49 Thread: [main] - ApplicationContext created
+12-07-2022 16:40:47 ERROR Class: SerializerImpl: Line: 106 Thread: [main] - File not found
+12-07-2022 16:40:49 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:40:49 INFO  Class: ShowAllProductsCommandImpl: Line: 20 Thread: [main] - Method execute() in class ShowAllProductsCommandImpl was called
+12-07-2022 16:41:04 INFO  Class: Runner: Line: 14 Thread: [main] - Application started
+12-07-2022 16:41:04 INFO  Class: ApplicationManager: Line: 28 Thread: [main] - Application started
+12-07-2022 16:41:07 INFO  Class: ApplicationManager: Line: 77 Thread: [main] - Input is by numbers
+12-07-2022 16:41:07 INFO  Class: ApplicationManager: Line: 96 Thread: [main] - Custom strategy was chosen
+12-07-2022 16:41:07 INFO  Class: ApplicationContext: Line: 49 Thread: [main] - ApplicationContext created
+12-07-2022 16:41:07 INFO  Class: ProductDAOImpl: Line: 54 Thread: [main] - List of products was created
+12-07-2022 16:41:07 INFO  Class: ProductDAOImpl: Line: 74 Thread: [main] - List of products was created
+12-07-2022 16:41:08 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:41:08 INFO  Class: ShowAllProductsCommandImpl: Line: 20 Thread: [main] - Method execute() in class ShowAllProductsCommandImpl was called
+12-07-2022 16:41:10 INFO  Class: AddProductCommandImpl: Line: 45 Thread: [main] - Created map of vehicles
+12-07-2022 16:41:11 INFO  Class: AbstractMethodTemplate: Line: 41 Thread: [main] - Vehicle was created by customer
+12-07-2022 16:41:11 INFO  Class: ElectroCarTemplate: Line: 29 Thread: [main] - ElectroCar was created by customer
+12-07-2022 16:41:11 INFO  Class: ProductServiceImpl: Line: 51 Thread: [main] - Product was added
+12-07-2022 16:41:11 INFO  Class: AddProductCommandImpl: Line: 69 Thread: [main] - Product added by strategy
+12-07-2022 16:41:12 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:41:12 INFO  Class: ShowAllProductsCommandImpl: Line: 20 Thread: [main] - Method execute() in class ShowAllProductsCommandImpl was called
+12-07-2022 16:41:20 INFO  Class: ProductServiceImpl: Line: 27 Thread: [main] - All products shown
+12-07-2022 16:41:28 INFO  Class: ProductServiceImpl: Line: 34 Thread: [main] - Product ElectroCar{ model 'Фирма 1761734008', brand 'Фирма 1337698705', name of product 'Фирма 1937778073', price '88.0', country 'Фирма 231309054', year '25', maxSpeed '44', horse power '33', passengers '75', battery capacity 'Фирма 585944000', wheels '13'} was found
+12-07-2022 16:41:28 INFO  Class: ProductDAOImpl: Line: 40 Thread: [main] - Found product by name
