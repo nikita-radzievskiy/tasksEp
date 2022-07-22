@@ -1,9 +1,0 @@
-12-06-2022 15:18:57 ERROR Class: RunnerForTxtReader: Line: 18 Thread: [main] - Input mismatch exception
-java.util.InputMismatchException
-	at java.util.Scanner.throwFor(Scanner.java:864)
-	at java.util.Scanner.next(Scanner.java:1485)
-	at java.util.Scanner.nextInt(Scanner.java:2117)
-	at java.util.Scanner.nextInt(Scanner.java:2076)
-	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.runnerForTxtReader(RunnerForTxtReader.java:27)
-	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.run(RunnerForTxtReader.java:16)
-	at com.epam.radziievskyi.filereader.readlinebyline.RunnerForTxtReader.main(RunnerForTxtReader.java:42)
